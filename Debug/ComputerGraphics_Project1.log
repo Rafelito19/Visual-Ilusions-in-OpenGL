@@ -1,0 +1,7 @@
+﻿  ComputerGraphics_Project1.cpp
+c:\users\rafae\desktop\opengl\projects\teapot\computergraphics_project1\computergraphics_project1\computergraphics_project1.cpp(70): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rafae\desktop\opengl\projects\teapot\computergraphics_project1\computergraphics_project1\computergraphics_project1.cpp(140): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\rafae\desktop\opengl\projects\teapot\computergraphics_project1\computergraphics_project1\computergraphics_project1.cpp(168): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\rafae\desktop\opengl\projects\teapot\computergraphics_project1\computergraphics_project1\computergraphics_project1.cpp(200): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ComputerGraphics_Project1.vcxproj -> C:\Users\rafae\Desktop\OpenGl\Projects\Teapot\ComputerGraphics_Project1\Debug\ComputerGraphics_Project1.exe
+  ComputerGraphics_Project1.vcxproj -> C:\Users\rafae\Desktop\OpenGl\Projects\Teapot\ComputerGraphics_Project1\Debug\ComputerGraphics_Project1.pdb (Full PDB)
